@@ -21,3 +21,9 @@ p = str(second_num)
 h = str(num)
 print(type(h))
 print(f.strip('()'))
+
+
+s= 'xyx'
+s= s.replace('x', 'yy')
+print(s)
+print(len(s))
